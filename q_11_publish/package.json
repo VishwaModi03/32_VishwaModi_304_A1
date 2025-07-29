@@ -1,0 +1,16 @@
+{
+  "name": "string-tools--assignment",
+  "version": "1.0.0",
+  "description": "A simple  utility library for string manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "utility",
+    "tools"
+  ],
+  "author": "Vishwa Modi",
+  "license": "MIT"
+}
